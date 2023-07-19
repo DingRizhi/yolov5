@@ -1,0 +1,1 @@
+python train.py --img-size 320 --data garbage_orig.yaml  --weights yolov5x.pt --batch-size 32 --epochs 300
